@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0eead7;
+    color: white;
+    padding: 10px 20px;
+    width:max-content;
+  }
+  
+  .header a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    
+  }
+  

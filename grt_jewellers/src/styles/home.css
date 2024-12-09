@@ -1,0 +1,68 @@
+.home-container {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+  }
+  
+  /* Carousel Styles */
+  .carousel-container {
+    margin-bottom: 20px;
+  }
+  
+  .carousel-container img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  /* Gold Rate Section */
+  .gold-rate-section {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .gold-rate-table {
+    margin: 10px auto;
+    width: 60%;
+    border-collapse: collapse;
+  }
+  
+  .gold-rate-table th, .gold-rate-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .gold-rate-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .gold-rate-section select {
+    margin-top: 10px;
+    padding: 5px 10px;
+  }
+  
+  /* Categories Section */
+  .categories-section {
+    margin-top: 30px;
+  }
+  
+  .categories-section h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .category {
+    margin: 10px 0;
+  }
+  
+  .category h4 {
+    text-decoration: underline;
+  }
+  
+  .category ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  .Welcomepage{
+    align-items: center;
+  }
+  
