@@ -1,10 +1,20 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaYoutube, FaMapMarkerAlt, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
 import { AiFillAndroid, AiFillApple } from "react-icons/ai";
+import { FaCcMastercard } from "react-icons/fa";
+import { FaCcVisa } from "react-icons/fa";
+import { FaCcPaypal } from "react-icons/fa";
+import { RiAmazonLine } from "react-icons/ri";
+import { PiCertificateBold } from "react-icons/pi";
 import footerstyle from '../styles/footer.css'
 const Footer = () => {
+      const makeInline={
+       display: "inline",
+       padding: "5px"
+      }
+  
   return (
-    <footer className="bg-dark text-white pt-4">
+    <footer className="bg-primary text-white pt-4">
       <div className="container">
         <div className="row">
           {/* Contact Us Section */}
@@ -44,26 +54,20 @@ const Footer = () => {
           {/* Payments Accepted Section */}
           <div className="col-md-3 mb-4">
             <h5>Payments Accepted</h5>
-            <img
-              src="https://via.placeholder.com/50x30"
-              alt="Visa"
-              className="me-2"
-            />
-            <img
-              src="https://via.placeholder.com/50x30"
-              alt="Mastercard"
-              className="me-2"
-            />
-            <img
-              src="https://via.placeholder.com/50x30"
-              alt="UPI"
-              className="me-2"
-            />
-            <img
-              src="https://via.placeholder.com/50x30"
-              alt="PayPal"
-              className="me-2"
-            />
+            {/* icon for visa */}
+            <p style ={makeInline}>
+              <FaCcVisa/>
+            </p>
+            {/* icon for mastercard */}
+            <p style ={makeInline}>
+              <FaCcMastercard/>
+            </p>
+           <p style ={makeInline}>
+            <RiAmazonLine/>
+           </p>          
+            <p style ={makeInline}>
+              <FaCcPaypal/>
+            </p>
           </div>
         </div>
 
@@ -84,10 +88,9 @@ const Footer = () => {
           {/* Certifications Section */}
           <div className="col-md-4 mb-4 text-center">
             <h5>Certifications</h5>
-            <img
-              src="https://via.placeholder.com/100x50"
-              alt="Government Certification"
-            />
+            <p>
+              <PiCertificateBold/>
+            </p>
           </div>
 
           {/* Social Media Links Section */}

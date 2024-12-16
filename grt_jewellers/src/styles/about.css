@@ -4,8 +4,10 @@
   }
   
   /* Carousel Container */
-  .carousel-container {
-    margin-bottom: 20px;
+  .carousel-item {
+    margin: auto;
+    height: 300px;
+    width: 500px;
   }
   
   /* About Main Content */

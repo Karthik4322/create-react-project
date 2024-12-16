@@ -6,43 +6,27 @@ const About = () => {
   return (
     <div className="about-container">
       {/* Carousel Section */}
-      <div className="carousel-container">
-        <Carousel>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="https://via.placeholder.com/800x400"
-              alt="First slide"
-            />
-            <Carousel.Caption>
-              <h3>Our Legacy</h3>
-              <p>Celebrating years of trust and excellence.</p>
-            </Carousel.Caption>
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="https://via.placeholder.com/800x400"
-              alt="Second slide"
-            />
-            <Carousel.Caption>
-              <h3>CSR Activities</h3>
-              <p>Driving change through sustainability and responsibility.</p>
-            </Carousel.Caption>
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="https://via.placeholder.com/800x400"
-              alt="Third slide"
-            />
-            <Carousel.Caption>
-              <h3>Education and Corporate Sales</h3>
-              <p>Empowering through partnerships and collaborations.</p>
-            </Carousel.Caption>
-          </Carousel.Item>
-        </Carousel>
-      </div>
+      <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../assets/images/bangles" class="d-block w-100" alt="bangles"/>
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/images/necklace" class="d-block w-100" alt="necklace"/>
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/images/stone_necklace" class="d-block w-100" alt="stone_necklace"/>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
       {/* About Main Section */}
       <div className="about-content">
