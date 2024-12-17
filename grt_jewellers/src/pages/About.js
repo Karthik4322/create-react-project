@@ -1,5 +1,6 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
+import MyimageComp from '../components/MyimageComp';
 import '../styles/about.css';
 
 const About = () => {
@@ -9,13 +10,19 @@ const About = () => {
       <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="../assets/images/bangles" class="d-block w-100" alt="bangles"/>
+      <img src={imgpath.bangle} class="d-block w-100" alt="bangles"/>
     </div>
     <div class="carousel-item">
       <img src="../assets/images/necklace" class="d-block w-100" alt="necklace"/>
     </div>
     <div class="carousel-item">
-      <img src="../assets/images/stone_necklace" class="d-block w-100" alt="stone_necklace"/>
+      <img src={imgpath.stone} class="d-block w-100" alt="stone_necklace"/>
+    </div>
+    <div class="carousel-item">
+      <img src={imgpath.gem} class="d-block w-100" alt="gem_stone"/>
+    </div>
+    <div class="carousel-item">
+      <img src={imgpath.nlace} class="d-block w-100" alt="necklace"/>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
