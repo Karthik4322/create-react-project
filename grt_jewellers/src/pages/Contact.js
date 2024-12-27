@@ -74,10 +74,10 @@ const Contact = () => {
 
   return (
     <div>
-      <h3>Feedback Form</h3>
-      <form onSubmit={handleSubmit}>
+      <h3 style="text-align:center; padding :20px;">Feedback Form</h3>
+      {/* <form style="padding :30px; justify: center;" onSubmit={handleSubmit}>
         <div style={{ marginBottom: "15px" }}>
-          <label>First Name:</label>
+          <label class="form-label">First Name:</label>
           <input
             type="text"
             name="fname"
@@ -143,7 +143,82 @@ const Contact = () => {
         >
           Submit
         </button>
-      </form>
+      </form> */}
+      <form style={{ padding: "30px", maxWidth: "500px", margin: "0 auto" }} onSubmit={handleSubmit}>
+  <div className="mb-3">
+    <label className="form-label">First Name:</label>
+    <input
+      type="text"
+      name="fname"
+      value={user.fname}
+      onChange={handleInputChange}
+      placeholder="Enter your first name"
+      className="form-control"
+      required
+    />
+  </div>
+  <div className="mb-3">
+    <label className="form-label">Email:</label>
+    <input
+      type="email"
+      name="email"
+      value={user.email}
+      onChange={handleInputChange}
+      placeholder="Enter your email"
+      className="form-control"
+      required
+    />
+  </div>
+  <div className="mb-3">
+    <label className="form-label">Contact Number:</label>
+    <input
+      type="text"
+      name="contact"
+      value={user.contact}
+      onChange={handleInputChange}
+      placeholder="Enter your contact number"
+      className="form-control"
+      required
+    />
+  </div>
+  <div className="mb-3">
+    <label className="form-label">Rate us:</label>
+    <select
+      name="courses"
+      value={user.courses}
+      onChange={handleInputChange}
+      className="form-select"
+      required
+    >
+      <option value="">Ratings</option>
+      {myCourses.map((val, index) => (
+        <option value={val} key={index}>
+          {val}
+        </option>
+      ))}
+    </select>
+  </div>
+  <div className="mb-3">
+    <label className="form-label">Feedback:</label>
+    <textarea
+      name="feedback"
+      value={user.feedback}
+      onChange={handleInputChange}
+      placeholder="Share your feedback"
+      className="form-control"
+      style={{ height: "100px" }}
+      required
+    ></textarea>
+  </div>
+  <button
+    type="submit"
+    className="btn btn-primary"
+    style={{ width: "100%", marginTop: "10px" }}
+  >
+    Submit
+  </button>
+</form>
+
     </div>
   );
 };
