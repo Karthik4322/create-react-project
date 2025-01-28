@@ -1,0 +1,23 @@
+{
+    
+    "user":[
+    {
+    "FirstName": "karthik",
+    "LastName": "s",
+    "Password": "kar123",
+    "ConfirmPassword": "kar123"
+    },
+    {
+    "FirstName": "sai",
+    "LastName": "s",
+    "Password": "sai123",
+    "ConfirmPassword": "sai123"
+    },   
+    {
+        "FirstName": "arun",
+        "LastName": "n",
+        "Password": "arun123",
+        "ConfirmPassword": "arun123"
+    }
+]
+    }
