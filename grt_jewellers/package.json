@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json-server": "cd src/Shared/Database/database && json-server --watch -p 8888 db.json",
+    "json-server": "cd src/Shared/Database && json-server --watch -p 8888 db.json",
     "start-dev": "npx concurrently \"npm start\" \"npm run json-server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",

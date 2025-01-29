@@ -1,9 +1,9 @@
+import axios from 'axios'
 import React, { Component } from 'react'
 
 class Signup extends Component {
     constructor(props) {
         super(props)
-    
         this.state = {
              FirstName:"",
              LastName: "",
@@ -41,6 +41,12 @@ class Signup extends Component {
             ConfirmPassword : confirmpassword
         })
         alert(`${this.state.FirstName} details successfully registered`)
+        axios.post("http://localhost:8888/user",this.state).then(response=>{
+            console.log(response)
+        })
+        .catch(error=>{
+            console.log(error)
+        })
     }
         else{
             alert("The Password is mismatching")  

@@ -1,12 +1,60 @@
-import React from 'react'
+import {React,useState,useEffect} from 'react'
+import "../styles/card.css"
+import axios from 'axios'
+ function Product() {
+    const[product,setProduct] = useState([])
 
-export default function Product() {
+useEffect(()=>{
+    axios.get('http://localhost:8888/products')
+    .then(res=>{
+        console.log(res.data)
+        setProduct(res.data)
+    })
+    .catch((error)=>{
+        console.log(error);
+    })
+   
+},[])
     return (
         <div>
         <br/>
         <br/>
         <br/>
+        <header>
             <h2>Product</h2>
+        </header>
+        <main>
+        <div className="container">
+            {
+
+                product.length >0 && product.map((val,index)=>{
+                    
+                    let cost = val.price;
+                    let discountRate = Number(val.discountPercentage)
+                    let dPrice = Number(cost -(cost*discountRate)/100)
+                    dPrice = Math.round(dPrice)
+                    return ( 
+                        
+
+                            <div className="card" key={index}>
+                                <img src={val.images} className="card-img-top" alt={val.title}/>
+                                <div className="card-body">
+                                <h5 className="card-title">{val.title}</h5>
+                                <h5 className="card-title">Product code:{val.id}</h5>
+                                <p className="card-text">{val.description}</p>
+                                <h5 className="card-title">Discount:<p>{val.discountPercentage}%</p></h5>
+                                <h5 className="card-title">Price:<p><del>{val.price}</del>   {dPrice}</p></h5>
+
+                                <a href="#" className="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                        
+                    )
+                })
+            }
+            </div>
+        </main>           
         </div>
     )
 }
+export default Product;
