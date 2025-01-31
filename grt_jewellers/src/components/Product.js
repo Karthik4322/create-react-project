@@ -1,5 +1,6 @@
 import {React,useState,useEffect} from 'react'
 import "../styles/card.css"
+import "./Reviews"
 import axios from 'axios'
  function Product() {
     const[product,setProduct] = useState([])
@@ -37,7 +38,7 @@ useEffect(()=>{
                         
 
                             <div className="card" key={index}>
-                                <img src={val.images} className="card-img-top" alt={val.title}/>
+                                <img src={val.images[0]} className="card-img-top" alt={val.title}/>
                                 <div className="card-body">
                                 <h5 className="card-title">{val.title}</h5>
                                 <h5 className="card-title">Product code:{val.id}</h5>
@@ -45,7 +46,8 @@ useEffect(()=>{
                                 <h5 className="card-title">Discount:<p>{val.discountPercentage}%</p></h5>
                                 <h5 className="card-title">Price:<p><del>{val.price}</del>   {dPrice}</p></h5>
 
-                                <a href="#" className="btn btn-primary">Go somewhere</a>
+                                <a href="Reviews" className="btn btn-primary">Reviews</a>
+                                <a href="Cart" className="btn btn-primary" style={{"margin-left": "7px"}}>Add to Cart</a>
                                 </div>
                             </div>
                         
@@ -53,7 +55,8 @@ useEffect(()=>{
                 })
             }
             </div>
-        </main>           
+        </main>     
+        <Reviews product={" "}/>      
         </div>
     )
 }

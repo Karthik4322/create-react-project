@@ -1,0 +1,1248 @@
+{
+    "products":[
+        {
+          
+            "id": 19,
+            "title": "Chicken Meat",
+            "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+            "category": "groceries",
+            "price": 110,
+            "discountPercentage": 10.46,
+            "rating": 4.61,
+            "stock": 69,
+            "tags": [
+              "meat"
+            ],
+            "sku": "G5YEHW7B",
+            "weight": 250,
+            "dimensions": {
+              "width": 15.96,
+              "height": 29.24,
+              "depth": 26.25
+            },
+            "warrantyInformation": "Lifetime warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Very satisfied!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Sophia Jones",
+                "reviewerEmail": "sophia.jones@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Great value for money!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Maya Reed",
+                "reviewerEmail": "maya.reed@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Highly recommended!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Harper Turner",
+                "reviewerEmail": "harper.turner@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 46,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "0966223559510",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png",
+              "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+          },
+          {
+            "id": 23,
+            "title": "Eggs",
+            "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+            "category": "groceries",
+            "price": 6,
+            "discountPercentage": 5.8,
+            "rating": 4.46,
+            "stock": 10,
+            "tags": [
+              "dairy"
+            ],
+            "sku": "YA617RI7",
+            "weight": 4,
+            "dimensions": {
+              "width": 12.3,
+              "height": 10.99,
+              "depth": 15.53
+            },
+            "warrantyInformation": "3 year warranty",
+            "shippingInformation": "Ships overnight",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 2,
+                "comment": "Very unhappy with my purchase!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Mateo Perez",
+                "reviewerEmail": "mateo.perez@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Very happy with my purchase!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Cameron Perez",
+                "reviewerEmail": "cameron.perez@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Very happy with my purchase!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Aurora Barnes",
+                "reviewerEmail": "aurora.barnes@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 43,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "7095702028776",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png"
+          },
+          {
+            "id": 24,
+            "title": "Fish Steak",
+            "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+            "category": "groceries",
+            "price": 70,
+            "discountPercentage": 7,
+            "rating": 4.83,
+            "stock": 99,
+            "tags": [
+              "seafood"
+            ],
+            "sku": "XNIH1MTA",
+            "weight": 8,
+            "dimensions": {
+              "width": 20.14,
+              "height": 8.4,
+              "depth": 10.01
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Great value for money!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Michael Johnson",
+                "reviewerEmail": "michael.johnson@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Would buy again!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Julian Newton",
+                "reviewerEmail": "julian.newton@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Excellent quality!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Lila Hudson",
+                "reviewerEmail": "lila.hudson@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 49,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "4250692197342",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
+          },
+         
+          {
+            "id": 25,
+            "title": "Green Bell Pepper",
+            "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+            "category": "groceries",
+            "price": 20,
+            "discountPercentage": 15.5,
+            "rating": 4.28,
+            "stock": 89,
+            "tags": [
+              "vegetables"
+            ],
+            "sku": "HU7S7VQ0",
+            "weight": 50,
+            "dimensions": {
+              "width": 7.32,
+              "height": 14.31,
+              "depth": 21.38
+            },
+            "warrantyInformation": "5 year warranty",
+            "shippingInformation": "Ships overnight",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 4,
+                "comment": "Excellent quality!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Maya Reed",
+                "reviewerEmail": "maya.reed@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Would buy again!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Madison Collins",
+                "reviewerEmail": "madison.collins@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Would buy again!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Ethan Thompson",
+                "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "7583442707568",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
+          },
+          {
+            "id": 26,
+            "title": "Green Chili Pepper",
+            "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+            "category": "groceries",
+            "price": 30,
+            "discountPercentage": 18.51,
+            "rating": 4.43,
+            "stock": 8,
+            "tags": [
+              "vegetables"
+            ],
+            "sku": "Y4RM3JCB",
+            "weight": 100,
+            "dimensions": {
+              "width": 18.67,
+              "height": 21.17,
+              "depth": 25.26
+            },
+            "warrantyInformation": "No warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 2,
+                "comment": "Disappointing product!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Mateo Bennett",
+                "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Very pleased!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Natalie Price",
+                "reviewerEmail": "natalie.price@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Very satisfied!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Avery Barnes",
+                "reviewerEmail": "avery.barnes@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 43,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "8400326844874",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
+          },
+
+          {
+            "id": 30,
+            "title": "Kiwi",
+            "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+            "category": "groceries",
+            "price": 100,
+            "discountPercentage": 10.32,
+            "rating": 4.37,
+            "stock": 1,
+            "tags": [
+              "fruits"
+            ],
+            "sku": "0X3NORB9",
+            "weight": 250,
+            "dimensions": {
+              "width": 27.3,
+              "height": 7.48,
+              "depth": 15.08
+            },
+            "warrantyInformation": "6 months warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "Low Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Very pleased!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Nora Russell",
+                "reviewerEmail": "nora.russell@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Very pleased!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Dylan Wells",
+                "reviewerEmail": "dylan.wells@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Great product!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Noah Hernandez",
+                "reviewerEmail": "noah.hernandez@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 8,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "3325493172934",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+          },
+          {
+            "id": 31,
+            "title": "Lemon",
+            "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+            "category": "groceries",
+            "price": 10,
+            "discountPercentage": 17.81,
+            "rating": 4.25,
+            "stock": 0,
+            "tags": [
+              "fruits"
+            ],
+            "sku": "J074TE3H",
+            "weight": 20,
+            "dimensions": {
+              "width": 25.97,
+              "height": 27.47,
+              "depth": 6.31
+            },
+            "warrantyInformation": "3 year warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "Out of Stock",
+            "reviews": [
+              {
+                "rating": 4,
+                "comment": "Highly recommended!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Lucas Gray",
+                "reviewerEmail": "lucas.gray@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Great product!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Henry Hill",
+                "reviewerEmail": "henry.hill@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Awesome product!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Elena Long",
+                "reviewerEmail": "elena.long@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "90 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "6364178053480",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Lemon/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Lemon/thumbnail.png"
+          },
+          {
+            "id": 33,
+            "title": "Mulberry",
+            "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+            "category": "groceries",
+            "price": 75,
+            "discountPercentage": 16.35,
+            "rating": 3.19,
+            "stock": 79,
+            "tags": [
+              "fruits"
+            ],
+            "sku": "0M1K7RRC",
+            "weight": 50,
+            "dimensions": {
+              "width": 11.12,
+              "height": 27.3,
+              "depth": 27.57
+            },
+            "warrantyInformation": "3 months warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Very satisfied!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Leah Henderson",
+                "reviewerEmail": "leah.henderson@x.dummyjson.com"
+              },
+              {
+                "rating": 1,
+                "comment": "Not as described!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Leah Hughes",
+                "reviewerEmail": "leah.hughes@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Great product!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Carter Baker",
+                "reviewerEmail": "carter.baker@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 50,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.621Z",
+              "updatedAt": "2024-05-23T08:56:21.621Z",
+              "barcode": "3327790147313",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Mulberry/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png"
+          },
+          {
+            "id": 41,
+            "title": "Strawberry",
+            "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+            "category": "groceries",
+            "price": 150,
+            "discountPercentage": 19.59,
+            "rating": 4.5,
+            "stock": 9,
+            "tags": [
+              "fruits"
+            ],
+            "sku": "LPP7I4JZ",
+            "weight": 200,
+            "dimensions": {
+              "width": 20.82,
+              "height": 15.81,
+              "depth": 14.89
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Highly recommended!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Charlotte Lopez",
+                "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Great product!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Grace Green",
+                "reviewerEmail": "grace.green@x.dummyjson.com"
+              },
+              {
+                "rating": 1,
+                "comment": "Disappointing product!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Logan Torres",
+                "reviewerEmail": "logan.torres@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 38,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.621Z",
+              "updatedAt": "2024-05-23T08:56:21.621Z",
+              "barcode": "7936749779940",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Strawberry/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png"
+          },
+          {
+            "id": 42,
+            "title": "Apple",
+            "description": "Crisp and juicy apples, perfect for snacking or adding to salads.",
+            "category": "groceries",
+            "price": 200,
+            "discountPercentage": 10.0,
+            "rating": 4.8,
+            "stock": 50,
+            "tags": [
+                "fruits"
+            ],
+            "sku": "AP5L8E23",
+            "weight": 250,
+            "dimensions": {
+                "width": 7.0,
+                "height": 10.0,
+                "depth": 7.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1-3 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Best apples I've ever tasted!",
+                    "date": "2024-05-24T08:45:21.621Z",
+                    "reviewerName": "Daniel Brown",
+                    "reviewerEmail": "daniel.brown@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Very fresh and crunchy.",
+                    "date": "2024-05-24T09:00:00.000Z",
+                    "reviewerName": "Sophia Clark",
+                    "reviewerEmail": "sophia.clark@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-24T08:45:21.621Z",
+                "updatedAt": "2024-05-24T08:45:21.621Z",
+                "barcode": "7234567890123",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g123a55ae86d8fe724f0b0a87785a6cbe66b413cfccb31c473977562e332ded9415929891f9774e90dc4609b8a74a009f_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+        },
+        {
+            "id": 43,
+            "title": "Banana",
+            "description": "Fresh and ripe bananas, rich in potassium, perfect for snacking or smoothies.",
+            "category": "groceries",
+            "price": 25,
+            "discountPercentage": 10.0,
+            "rating": 4.8,
+            "stock": 100,
+            "tags": [
+                "fruits"
+            ],
+            "sku": "BA7A9M23",
+            "weight": 30,
+            "dimensions": {
+                "width": 6.0,
+                "height": 7.0,
+                "depth": 6.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1-3 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Best bananas I've ever had!",
+                    "date": "2024-05-24T09:15:00.000Z",
+                    "reviewerName": "Sophia Martin",
+                    "reviewerEmail": "sophia.martin@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Good quality bananas.",
+                    "date": "2024-05-24T09:30:00.000Z",
+                    "reviewerName": "James Smith",
+                    "reviewerEmail": "james.smith@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-24T08:45:21.621Z",
+                "updatedAt": "2024-05-24T08:45:21.621Z",
+                "barcode": "9876543210123",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g07fbaaf5af87cb8fa5b72f6170f5ce044d2df78825c7c506b649e7d151396ddcb93b19c7cdf77fb84879e65e72eff861_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Banana/thumbnail.png"
+        },
+          {
+            "id": 45,
+            "title": "Potatoes",
+            "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+            "category": "groceries",
+            "price": 45,
+            "discountPercentage": 4.05,
+            "rating": 3.82,
+            "stock": 8,
+            "tags": [
+              "vegetables"
+            ],
+            "sku": "W4NOBW45",
+            "weight": 250,
+            "dimensions": {
+              "width": 20,
+              "height": 6.44,
+              "depth": 20.07
+            },
+            "warrantyInformation": "5 year warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Very pleased!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Sophia Brown",
+                "reviewerEmail": "sophia.brown@x.dummyjson.com"
+              },
+              {
+                "rating": 1,
+                "comment": "Would not recommend!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Gabriel Mitchell",
+                "reviewerEmail": "gabriel.mitchell@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Awesome product!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Elijah Stewart",
+                "reviewerEmail": "elijah.stewart@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 29,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.621Z",
+              "updatedAt": "2024-05-23T08:56:21.621Z",
+              "barcode": "1374727655057",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Potatoes/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
+          },
+          {
+            "id": 46,
+            "title": "Red Onions",
+            "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+            "category": "groceries",
+            "price": 50,
+            "discountPercentage": 17.89,
+            "rating": 4.08,
+            "stock": 86,
+            "tags": [
+              "vegetables"
+            ],
+            "sku": "TAF870KJ",
+            "weight": 200,
+            "dimensions": {
+              "width": 14.05,
+              "height": 17.13,
+              "depth": 14.05
+            },
+            "warrantyInformation": "Lifetime warranty",
+            "shippingInformation": "Ships in 2 weeks",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Very happy with my purchase!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "James Davis",
+                "reviewerEmail": "james.davis@x.dummyjson.com"
+              },
+              {
+                "rating": 2,
+                "comment": "Would not recommend!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Chloe Morales",
+                "reviewerEmail": "chloe.morales@x.dummyjson.com"
+              },
+              {
+                "rating": 3,
+                "comment": "Very dissatisfied!",
+                "date": "2024-05-23T08:56:21.621Z",
+                "reviewerName": "Aaron Cook",
+                "reviewerEmail": "aaron.cook@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 40,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.621Z",
+              "updatedAt": "2024-05-23T08:56:21.621Z",
+              "barcode": "5439836346472",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png"
+          },
+          {
+            "id": 21,
+            "title": "Cucumber",
+            "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+            "category": "groceries",
+            "price": 30,
+            "discountPercentage": 11.44,
+            "rating": 4.71,
+            "stock": 22,
+            "tags": [
+              "vegetables"
+            ],
+            "sku": "6KGF2K6Z",
+            "weight": 100,
+            "dimensions": {
+              "width": 11.04,
+              "height": 20.5,
+              "depth": 8.18
+            },
+            "warrantyInformation": "5 year warranty",
+            "shippingInformation": "Ships overnight",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 4,
+                "comment": "Very satisfied!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Elijah Hill",
+                "reviewerEmail": "elijah.hill@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Fast shipping!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Liam Garcia",
+                "reviewerEmail": "liam.garcia@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Excellent quality!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Ella Cook",
+                "reviewerEmail": "ella.cook@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 7,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "2597004869708",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
+          },
+          {
+            "id": 51,
+            "title": "Broccoli",
+            "description": "Fresh broccoli, packed with vitamins, perfect for healthy meals and salads.",
+            "category": "vegetables",
+            "price": 60,
+            "discountPercentage": 12.5,
+            "rating": 4.5,
+            "stock": 20,
+            "tags": [
+                "greens",
+                "healthy",
+                "vegetables"
+            ],
+            "sku": "0Y4NORN2",
+            "weight": 200,
+            "dimensions": {
+                "width": 25.0,
+                "height": 15.0,
+                "depth": 10.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Excellent quality!",
+                    "date": "2024-05-23T09:00:00.000Z",
+                    "reviewerName": "Alice Johnson",
+                    "reviewerEmail": "alice.johnson@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Very fresh and tasty.",
+                    "date": "2024-05-23T09:05:00.000Z",
+                    "reviewerName": "Brian Smith",
+                    "reviewerEmail": "brian.smith@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Good for stir-frying.",
+                    "date": "2024-05-23T09:10:00.000Z",
+                    "reviewerName": "Emily Davis",
+                    "reviewerEmail": "emily.davis@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 5,
+            "meta": {
+                "createdAt": "2024-05-20T08:56:21.620Z",
+                "updatedAt": "2024-05-20T08:56:21.620Z",
+                "barcode": "3325493172935",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g1b17eba27df6f4f681f4bb1e9ae2102e2e81756e64dc7723a66ca573577f243fb9df0ab1cd83fd529c9535a6f34d6dc08ebe0439c2e2235d7aa2a085f233ab3c_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/vegetables/Broccoli/thumbnail.png"
+        },
+        {
+            "id": 47,
+            "title": "Tomato",
+            "description": "Fresh and juicy tomatoes, perfect for salads, sauces, and cooking.",
+            "category": "vegetables",
+            "price": 90,
+            "discountPercentage": 15.0,
+            "rating": 4.6,
+            "stock": 50,
+            "tags": [
+                "fresh",
+                "vegetables",
+                "rich in vitamins"
+            ],
+            "sku": "0T3M0T0",
+            "weight": 250,
+            "dimensions": {
+                "width": 5.0,
+                "height": 5.0,
+                "depth": 5.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Taste is fantastic!",
+                    "date": "2024-05-24T08:56:21.620Z",
+                    "reviewerName": "Sarah Connor",
+                    "reviewerEmail": "sarah.connor@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Very fresh and ripe.",
+                    "date": "2024-05-24T09:01:00.000Z",
+                    "reviewerName": "John Doe",
+                    "reviewerEmail": "john.doe@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great for making salsa.",
+                    "date": "2024-05-24T09:05:00.000Z",
+                    "reviewerName": "Jane Smith",
+                    "reviewerEmail": "jane.smith@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 10,
+            "meta": {
+                "createdAt": "2024-05-24T08:56:21.620Z",
+                "updatedAt": "2024-05-24T08:56:21.620Z",
+                "barcode": "3325493172936",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g3c064f77e6790ec8d35b90cae5f245790c9bcb61588e055cc39f91d53a2e6aa2a0eca0cdfea5674c2d92b96f107fc037a46e7552a1d64c77e84ebaeb77a49ca7_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/vegetables/Tomato/thumbnail.png"
+        },
+        {
+            "id": 48,
+            "title": "Carrot",
+            "description": "Crunchy and sweet carrots, rich in beta-carotene, ideal for snacks and cooking.",
+            "category": "vegetables",
+            "price": 50,
+            "discountPercentage": 5.0,
+            "rating": 4.8,
+            "stock": 40,
+            "tags": [
+                "snack",
+                "healthy",
+                "vegetables"
+            ],
+            "sku": "0C4R0T0",
+            "weight": 250,
+            "dimensions": {
+                "width": 4.0,
+                "height": 20.0,
+                "depth": 4.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Crisp and delicious!",
+                    "date": "2024-05-24T09:00:00.000Z",
+                    "reviewerName": "Michael Johnson",
+                    "reviewerEmail": "michael.johnson@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great for juicing.",
+                    "date": "2024-05-24T09:05:00.000Z",
+                    "reviewerName": "Rachel Green",
+                    "reviewerEmail": "rachel.green@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Very fresh and crunchy.",
+                    "date": "2024-05-24T09:10:00.000Z",
+                    "reviewerName": "Ross Geller",
+                    "reviewerEmail": "ross.geller@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 5,
+            "meta": {
+                "createdAt": "2024-05-24T08:56:21.620Z",
+                "updatedAt": "2024-05-24T08:56:21.620Z",
+                "barcode": "3325493172937",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g713b394cac9b414df164d361727e3efd2c02e91ba69ce979f2b3de1f196ea6458edd2c85a9d69ebd03c01f480eceabee2e0c28d45705c6113e1dde2697da991d_1280.jpg"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/vegetables/Carrot/thumbnail.png"
+        },
+        {
+            "id": 50,
+            "title": "Milk",
+            "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+            "category": "groceries",
+            "price": 35,
+            "discountPercentage": 15.09,
+            "rating": 3.14,
+            "stock": 57,
+            "tags": [
+              "dairy"
+            ],
+            "sku": "VOZKMF40",
+            "weight": 500,
+            "dimensions": {
+              "width": 22.42,
+              "height": 20.9,
+              "depth": 12.48
+            },
+            "warrantyInformation": "6 months warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Very pleased!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Daniel Cook",
+                "reviewerEmail": "daniel.cook@x.dummyjson.com"
+              },
+              {
+                "rating": 5,
+                "comment": "Awesome product!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Nora Mills",
+                "reviewerEmail": "nora.mills@x.dummyjson.com"
+              },
+              {
+                "rating": 4,
+                "comment": "Great value for money!",
+                "date": "2024-05-23T08:56:21.620Z",
+                "reviewerName": "Jacob Cooper",
+                "reviewerEmail": "jacob.cooper@x.dummyjson.com"
+              }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 41,
+            "meta": {
+              "createdAt": "2024-05-23T08:56:21.620Z",
+              "updatedAt": "2024-05-23T08:56:21.620Z",
+              "barcode": "6340035595037",
+              "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+              "https://cdn.dummyjson.com/products/images/groceries/Milk/1.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Milk/thumbnail.png"
+          },
+          {
+            "id": 51,
+            "title": "Ghee",
+            "description": "Pure and clarified butter, perfect for cooking and traditional dishes.",
+            "category": "groceries",
+            "price": 400,
+            "discountPercentage": 12.5,
+            "rating": 4.7,
+            "stock": 40,
+            "tags": [
+                "dairy"
+            ],
+            "sku": "GH3E5E",
+            "weight": 500,
+            "dimensions": {
+                "width": 8.0,
+                "height": 10.0,
+                "depth": 8.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Excellent quality ghee!",
+                    "date": "2024-05-24T08:45:21.620Z",
+                    "reviewerName": "Ravi Sharma",
+                    "reviewerEmail": "ravi.sharma@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "A great addition to my cooking.",
+                    "date": "2024-05-24T09:00:00.000Z",
+                    "reviewerName": "Anita Patel",
+                    "reviewerEmail": "anita.patel@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-24T08:45:21.620Z",
+                "updatedAt": "2024-05-24T08:45:21.620Z",
+                "barcode": "1234567890987",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/gb796cbed853e0edb1ee5fcd8ae9c0ddd4b6652f9bce82f7c0ab829b09c340c6f67940709695379bfe59f64703d3886c47d418f83ccb097cc27a13179e463eca6_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ghee/thumbnail.png"
+        },
+       
+        {
+            "id": 53,
+            "title": "Butter",
+            "description": "Rich and creamy butter, perfect for spreading or cooking.",
+            "category": "groceries",
+            "price": 270,
+            "discountPercentage": 5.0,
+            "rating": 4.6,
+            "stock": 25,
+            "tags": [
+                "dairy"
+            ],
+            "sku": "BU8T7E",
+            "weight": 250,
+            "dimensions": {
+                "width": 5.5,
+                "height": 7.0,
+                "depth": 7.5
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Perfect for baking!",
+                    "date": "2024-05-24T09:45:00.000Z",
+                    "reviewerName": "Maya Singh",
+                    "reviewerEmail": "maya.singh@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Tastes great on toast.",
+                    "date": "2024-05-24T09:50:00.000Z",
+                    "reviewerName": "Raj Gupta",
+                    "reviewerEmail": "raj.gupta@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-24T08:45:21.620Z",
+                "updatedAt": "2024-05-24T08:45:21.620Z",
+                "barcode": "3456789012345",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g0fe29c8175f0a328a0063543a59b8ed05969958ee207305345f77722466c21566b99686b2ae94838653e8d978208e83e7a1f0545384a2272e5f78c43b83e317b_1280.png"
+            ]
+        },
+        {
+            "id": 54,
+            "title": "Cheese",
+            "description": "Delicious and creamy cheese, perfect for sandwiches and pizzas.",
+            "category": "groceries",
+            "price": 300,
+            "discountPercentage": 7.5,
+            "rating": 4.9,
+            "stock": 20,
+            "tags": [
+                "dairy"
+            ],
+            "sku": "CH4E3S",
+            "weight": 200,
+            "dimensions": {
+                "width": 10.0,
+                "height": 10.0,
+                "depth": 5.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Best cheese ever!",
+                    "date": "2024-05-24T09:55:00.000Z",
+                    "reviewerName": "Laura White",
+                    "reviewerEmail": "laura.white@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Good for melting on dishes.",
+                    "date": "2024-05-24T10:00:00.000Z",
+                    "reviewerName": "Michael Lee",
+                    "reviewerEmail": "michael.lee@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-24T08:45:21.620Z",
+                "updatedAt": "2024-05-24T08:45:21.620Z",
+                "barcode": "4567890123456",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g58d541b341f4855eca50fc2fd226a42905d8362edd911572e5a6cec58c87fe97973963afa2789fa56b84882f3609254305330af9edf16ce5d9a05c071d175434_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cheese/thumbnail.png"
+        },
+        {
+            "id": 55,
+            "title": "Yogurt",
+            "description": "Creamy and tangy yogurt, a great addition to smoothies and desserts.",
+            "category": "groceries",
+            "price": 75 ,
+            "discountPercentage": 10.0,
+            "rating": 4.3,
+            "stock": 60,
+            "tags": [
+                "dairy"
+            ],
+            "sku": "YO3G5T",
+            "weight": 100,
+            "dimensions": {
+                "width": 9.0,
+                "height": 10.0,
+                "depth": 9.0
+            },
+            "warrantyInformation": "No warranty applicable",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Love this yogurt!",
+                    "date": "2024-05-24T10:05:00.000Z",
+                    "reviewerName": "Nina Patel",
+                    "reviewerEmail": "nina.patel@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Very good for health.",
+                    "date": "2024-05-24T10:10:00.000Z",
+                    "reviewerName": "Charlie Kim",
+                    "reviewerEmail": "charlie.kim@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-24T08:45:21.620Z",
+                "updatedAt": "2024-05-24T08:45:21.620Z",
+                "barcode": "5678901234567",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://pixabay.com/get/g545d9d935daf898002d64100c46d0f8a63b64773a4b29c2b127bb36d55911623ec678b351909db690a4b6ccb141c5c0cfaacea4d47e43b0cc4d3aa18095c049c_1280.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Yogurt/thumbnail.png"
+        }
+    ]
+}
